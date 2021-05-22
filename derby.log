@@ -1,0 +1,37 @@
+Fri Apr 02 18:20:43 IST 2021 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Apr 02 18:22:29 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0178-92a2-aac8-000030b7003f 
+on database directory C:\Users\Sujan\Desktop\persistence\FoodDB with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_91\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Sujan\Desktop\persistence
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Apr 02 18:22:32 IST 2021:
+Shutting down instance a816c00e-0178-92a2-aac8-000030b7003f on database directory C:\Users\Sujan\Desktop\persistence\FoodDB with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Fri Apr 02 18:22:32 IST 2021 Thread[DRDAConnThread_3,5,main] (DATABASE = FoodDB), (DRDAID = {2}), Database 'FoodDB' shutdown.
+----------------------------------------------------------------
+Fri Apr 02 18:22:48 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 0ddd00a9-0178-92a2-aac8-000030b7003f 
+on database directory C:\Users\Sujan\Desktop\persistence\FoodDB with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_91\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Sujan\Desktop\persistence
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Apr 02 18:57:18 IST 2021: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Apr 02 18:57:18 IST 2021:
+Shutting down instance 0ddd00a9-0178-92a2-aac8-000030b7003f on database directory C:\Users\Sujan\Desktop\persistence\FoodDB with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
